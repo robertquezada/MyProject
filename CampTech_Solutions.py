@@ -1,4 +1,4 @@
-# Sistema de ventas de artículos de camping en Python con recomendaciones
+# Sistema de ventas de artículos de camping CampTech Solutions
 
 # Lista de artículos disponibles
 articulos = {
